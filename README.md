@@ -40,7 +40,6 @@ took a fraction of the time a full render pass or a photo shoot would.
 ## About
 
 Mechanical design engineer (SolidWorks, 11 years, 100+ projects).
-[linkedin.com/in/nizamyuksel](https://www.linkedin.com/in/nizamyuksel/)
 
 ## License
 
