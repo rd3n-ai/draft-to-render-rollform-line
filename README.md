@@ -39,10 +39,8 @@ took a fraction of the time a full render pass or a photo shoot would.
 
 ## About
 
-Mechanical design engineer (SolidWorks, 11 years, 100+ projects) using Claude
-Code to move fast between CAD, engineering judgment, and the visuals that
-actually help close a proposal.
-<!-- TODO(Nizam): add your LinkedIn/website URL here before publishing -->
+Mechanical design engineer (SolidWorks, 11 years, 100+ projects).
+[linkedin.com/in/nizamyuksel](https://www.linkedin.com/in/nizamyuksel/)
 
 ## License
 
